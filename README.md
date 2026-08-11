@@ -1,0 +1,1 @@
+Time Capsule started as a simple idea: music remembers what we sometimes forget. Each entry pairs a song with a memory, sealed with a date, so the story behind it is never lost. The long-term hope is that tools like this could one day help people reconnect with memories through music. But for now, it's a personal archive, one song at a time.
